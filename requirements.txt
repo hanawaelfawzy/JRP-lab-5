@@ -1,0 +1,21 @@
+# Core web framework
+streamlit==1.39.0
+
+# Visualization libraries
+plotly==5.24.1
+pandas==2.2.3
+
+# JSON/Markdown handling
+markdown-it-py==3.0.0
+
+# PDF/HTML export
+weasyprint==62.3
+reportlab==4.2.2
+
+# Optional: Markdown → HTML conversion (for cleaner PDF reports)
+mistune==3.0.2
+
+# Optional: Table formatting for reports
+tabulate==0.9.0
+
+kaleido==0.2.1

@@ -1,0 +1,10 @@
+{
+  "instance_name": "Invalid_Test",
+  "A": -40.0,
+  "r": "not_a_number",
+  "items": [
+    { "id": "Item1", "a": 15.0, "D": -120.0, "v": 2.2 },
+    { "id": "Item2", "a": "fifteen", "D": 140.0 },
+    { "id": "Item3" }
+  ]
+}
